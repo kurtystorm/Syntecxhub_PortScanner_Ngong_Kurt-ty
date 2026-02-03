@@ -38,7 +38,7 @@ python3 --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Syntecxhub_PortScanner_Ngong_Kurt-ty.git
+git clone https://github.com/kurtystorm/Syntecxhub_PortScanner_Ngong_Kurt-ty.git
 cd Syntecxhub_PortScanner_Ngong_Kurt-ty
 ```
 
